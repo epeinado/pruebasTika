@@ -1,1 +1,9 @@
-This file was created by IntelliJ IDEA 12.1.3 for binding GitHub repository
+Para que funciona correctamente el script, debe cambiarse la ruta donde se encuentran los archivos.
+
+Estas son algunas consideraciones que he visto al hacer las pruebas:
+
+- Hay que ampliar el espacio en el BodyHandler o no coge archivos con más de 100000 caracteres.
+- El lector de RSS deja los códigos HTML embebidos, igual luego se le puede pasar el de HTML
+- Del MP3, JPG, TIF sólo saca metadatos.
+- En los Zip devuelve las rutas de los archivos que contiene.
+- Para el RAR no hace nada, sólo detecta que es un RAR

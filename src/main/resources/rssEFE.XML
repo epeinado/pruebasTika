@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NewsML Version="1.2">
+  <!--NewsML documentation and last changes: http://www.efe.com/documentosefe/efenewsml/EfeNewsML.htm.
+Documentacion NewsML y últimos cambios: http://www.efe.com/documentosefe/efenewsml/EfeNewsML.htm-->
+  <NewsEnvelope>
+    <SentFrom>
+      <Party FormalName="EFE">
+        <Property FormalName="Organization" Value="Agencia EFE" />
+      </Party>
+    </SentFrom>
+    <DateAndTime>20120124T134717+0000</DateAndTime>
+    <NewsProduct FormalName="Relevantes multimedia" />
+  </NewsEnvelope>
+  <NewsItem Duid="multimedia_1700861">
+    <Comment FormalName="EfeNewsMLVersion">1.0.1</Comment>
+    <Identification>
+      <NewsIdentifier>
+        <ProviderId>multimedia.efeservicios.com</ProviderId>
+        <DateId>20120124T153600+0000</DateId>
+        <NewsItemId>1700861</NewsItemId>
+        <RevisionId PreviousRevision="1" Update="U">2</RevisionId>
+        <PublicIdentifier>urn:newsml:multimedia.efeservicios.com:20120124T153600+0000:1700861:2</PublicIdentifier>
+      </NewsIdentifier>
+    </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News" />
+      <FirstCreated>20120124T153600+0000</FirstCreated>
+      <ThisRevisionCreated>20120124T153700+0000</ThisRevisionCreated>
+      <Status FormalName="Usable" />
+      <Urgency FormalName="1" />
+    </NewsManagement>
+    <NewsComponent Duid="multimedia_1700861.multimedia">
+      <NewsLines>
+        <HeadLine>Wall Street baja el 0,53 por ciento en la apertura</HeadLine>
+        <SubHeadLine>BOLSA WALL STREET</SubHeadLine>
+        <CopyrightLine>© EFE 2012. Está expresamente prohibida la redistribución y la redifusión de todo o parte de los contenidos de los servicios de Efe, sin previo y expreso consentimiento de la Agencia EFE S.A.</CopyrightLine>
+      </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+          <Party FormalName="Agencia EFE" />
+        </Provider>
+        <Creator>
+          <Party FormalName="Agencia EFE" />
+        </Creator>
+      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+        <Language FormalName="es" />
+        <SubjectCode>
+          <!--Economía- negocios y finanzas ; Mercados y bolsas ; Bolsa de valores-->
+          <SubjectDetail FormalName="04009003" Scheme="IptcSubjectCodes" />
+        </SubjectCode>
+        <Property FormalName="Tesauro" Value="ECO:ECONOMIA,MERCADOS-FINANZAS,BOLSAS-VALORES" />
+        <Property FormalName="EfeAmbito">
+          <Property FormalName="WorldRegion" Value="NORTEAMÉRICA/CARIBE" />
+          <Property FormalName="Country" Value="EEUU" />
+          <Property FormalName="CountryArea" Value="New York" />
+        </Property>
+        <Property FormalName="EfeObservaciones" Value="bolsa wall street|" />
+      </DescriptiveMetadata>
+      <NewsComponent Duid="multimedia_1700861.multimedia.texts">
+        <Role FormalName="Content list" />
+        <NewsComponent Duid="multimedia_1700861.multimedia.texts.4329698" Euid="4329698">
+          <Role FormalName="Main" />
+          <NewsLines>
+            <HeadLine>Wall Street baja el 0,53 por ciento en la apertura</HeadLine>
+            <SubHeadLine>BOLSA WALL STREET </SubHeadLine>
+          </NewsLines>
+          <DescriptiveMetadata>
+            <Language FormalName="es" />
+            <DateLineDate>20120124T153600+0000</DateLineDate>
+            <!--EFE_IdRefOriginal indicates a source ID for this NewsComponent.
+EFE_IdRefOriginal indica un ID de origen para este NewsComponent.-->
+            <Property FormalName="EFE_IdRefOriginal" Value="T_16896891" />
+            <!--Useful to identificate NewsComponents from the same kind (photo, audio, ...) and content, but with different Euids or Hrefs.
+Util para identificar NewsComponents del mismo tipo y contenido, pero con diferente Euids o Hrefs.-->
+            <Property FormalName="EFE_IdRefObject" Value="4329698" />
+          </DescriptiveMetadata>
+          <ContentItem>
+            <MediaType FormalName="Text" />
+            <Format FormalName="NITF" />
+            <MimeType FormalName="text/vnd.IPTC.NITF" />
+            <DataContent>
+              <nitf version="-//IPTC//DTD NITF 3.2//EN" change.date="October 10, 2003" change.time="19:30" baselang="es-ES">
+                <head>
+                  <title>Wall Street baja el 0,53 por ciento en la apertura</title>
+                  <docdata management-status="usable">
+                    <doc-id id-string="4329698" />
+                  </docdata>
+                </head>
+                <body>
+                  <body.head>
+                    <hedline>
+                      <hl1>Wall Street baja el 0,53 por ciento en la apertura</hl1>
+                      <hl2>BOLSA WALL STREET </hl2>
+                    </hedline>
+                    <dateline>
+                      <location>Nueva York</location>
+                      <!--ATTENTION: Use "norm" attribute as datetime. The datetime inside tag "story.date" is a mistake but we maintain it to avoid errors in our customers.
+ATENCION: Use el atributo "norm" como fecha y hora. La fecha y hora presente en la etiqueta "story.date" es un error pero seguimos incluyéndolo para evitar errores en nuestros clientes.-->
+                      <story.date norm="20120124T153600+0000">20120124T153600+0000</story.date>
+                    </dateline>
+                    <abstract>
+                      <p>Nueva York, 24 ene (EFE).- La Bolsa de Nueva York abrió hoy a la baja y el índice Dow Jones de Industriales descendía el 0,53 % (-67,13 puntos) hasta 12.641,69 enteros, minutos después de comenzar las contrataciones, mientras el selectivo S&amp;P 500 cedía el 0,6 % y el índice compuesto del mercado Nasdaq retrocedía el 0,44 %.</p>
+                    </abstract>
+                  </body.head>
+                  <body.content>
+                    <p>Nueva York, 24 ene (EFE).- La Bolsa de Nueva York abrió hoy a la baja y el índice Dow Jones de Industriales descendía el 0,53 % (-67,13 puntos) hasta 12.641,69 enteros, minutos después de comenzar las contrataciones, mientras el selectivo S&amp;P 500 cedía el 0,6 % y el índice compuesto del mercado Nasdaq retrocedía el 0,44 %. </p>
+                  </body.content>
+                </body>
+              </nitf>
+            </DataContent>
+          </ContentItem>
+        </NewsComponent>
+      </NewsComponent>
+      <NewsComponent Duid="multimedia_1700861.multimedia.photos">
+        <Role FormalName="Content list" />
+        <NewsComponent Duid="multimedia_1700861.multimedia.photos.4329697" Euid="4329697">
+          <NewsLines>
+            <HeadLine>Wall Street baja el 0,53 por ciento en la apertura</HeadLine>
+          </NewsLines>
+          <AdministrativeMetadata>
+            <Provider>
+              <Party FormalName="Agencia EFE" />
+            </Provider>
+          </AdministrativeMetadata>
+          <DescriptiveMetadata>
+            <Language FormalName="es" />
+            <DateLineDate>20120124T153600+0000</DateLineDate>
+            <Location HowPresent="Origin">
+              <Property FormalName="City" Value="Nueva York " />
+            </Location>
+            <!--EFE_IdRefOriginal indicates a source ID for this NewsComponent.
+EFE_IdRefOriginal indica un ID de origen para este NewsComponent.-->
+            <Property FormalName="EFE_IdRefOriginal" Value="FH_5209653" />
+            <!--Useful to identificate NewsComponents from the same kind (photo, audio, ...) and content, but with different Euids or Hrefs.
+Util para identificar NewsComponents del mismo tipo y contenido, pero con diferente Euids o Hrefs.-->
+            <Property FormalName="EFE_IdRefObject" Value="4329697" />
+          </DescriptiveMetadata>
+          <NewsComponent Duid="multimedia_1700861.multimedia.photos.4329697.file">
+            <Role FormalName="Main" />
+            <ContentItem Href="4329697w.jpg">
+              <MediaType FormalName="Photo" />
+              <MimeType FormalName="image/jpeg" />
+              <Characteristics>
+                <SizeInBytes>54845</SizeInBytes>
+                <Property FormalName="Height" Value="538" />
+                <Property FormalName="PixelDepth" Value="24" />
+                <Property FormalName="Width" Value="800" />
+              </Characteristics>
+            </ContentItem>
+          </NewsComponent>
+          <NewsComponent Duid="multimedia_1700861.multimedia.photos.4329697.text">
+            <Role FormalName="Caption" />
+            <ContentItem>
+              <MediaType FormalName="Text" />
+              <Format FormalName="NITF" />
+              <MimeType FormalName="text/vnd.IPTC.NITF" />
+              <DataContent>
+                <nitf version="-//IPTC//DTD NITF 3.2//EN" change.date="October 10, 2003" change.time="19:30" baselang="es-ES">
+                  <head>
+                    <title>Wall Street baja el 0,53 por ciento en la apertura</title>
+                    <docdata management-status="usable">
+                      <doc-id id-string="4329697" />
+                    </docdata>
+                  </head>
+                  <body>
+                    <body.head>
+                      <hedline>
+                        <hl1>Wall Street baja el 0,53 por ciento en la apertura</hl1>
+                      </hedline>
+                      <dateline>
+                        <!--ATTENTION: Use "norm" attribute as datetime. The datetime inside tag "story.date" is a mistake but we maintain it to avoid errors in our customers.
+ATENCION: Use el atributo "norm" como fecha y hora. La fecha y hora presente en la etiqueta "story.date" es un error pero seguimos incluyéndolo para evitar errores en nuestros clientes.-->
+                        <story.date norm="20120124T153600+0000">20120124T153600+0000</story.date>
+                      </dateline>
+                    </body.head>
+                    <body.content>
+                      <p>El índice Dow Jones de Industriales descendía el 0,53 % (-67,13 puntos) hasta 12.641,69 unidades minutos después de comenzar las contrataciones. EFE/Archivo</p>
+                    </body.content>
+                  </body>
+                </nitf>
+              </DataContent>
+            </ContentItem>
+          </NewsComponent>
+        </NewsComponent>
+      </NewsComponent>
+    </NewsComponent>
+  </NewsItem>
+  <NewsItem Duid="multimedia_1700852">
+    <Comment FormalName="EfeNewsMLVersion">1.0.1</Comment>
+    <Identification>
+      <NewsIdentifier>
+        <ProviderId>multimedia.efeservicios.com</ProviderId>
+        <DateId>20120124T153000+0000</DateId>
+        <NewsItemId>1700852</NewsItemId>
+        <RevisionId PreviousRevision="1" Update="U">2</RevisionId>
+        <PublicIdentifier>urn:newsml:multimedia.efeservicios.com:20120124T153000+0000:1700852:2</PublicIdentifier>
+      </NewsIdentifier>
+    </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News" />
+      <FirstCreated>20120124T153000+0000</FirstCreated>
+      <ThisRevisionCreated>20120124T153300+0000</ThisRevisionCreated>
+      <Status FormalName="Usable" />
+      <Urgency FormalName="1" />
+    </NewsManagement>
+    <NewsComponent Duid="multimedia_1700852.multimedia">
+      <NewsLines>
+        <HeadLine>La justicia bielorrusa confirma la condena al opositor Ales Beliatski a 4,5 años de cárcel</HeadLine>
+        <SubHeadLine>BIELORRUSIA OPOSICIÓN</SubHeadLine>
+        <CopyrightLine>© EFE 2012. Está expresamente prohibida la redistribución y la redifusión de todo o parte de los contenidos de los servicios de Efe, sin previo y expreso consentimiento de la Agencia EFE S.A.</CopyrightLine>
+      </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+          <Party FormalName="Agencia EFE" />
+        </Provider>
+        <Creator>
+          <Party FormalName="Agencia EFE" />
+        </Creator>
+      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+        <Language FormalName="es" />
+        <SubjectCode>
+          <!--Economía- negocios y finanzas ; Macroeconomía ; Organizaciones económicas-->
+          <SubjectDetail FormalName="04008013" Scheme="IptcSubjectCodes" />
+        </SubjectCode>
+        <Property FormalName="Tesauro" Value="ECO:ECONOMIA,MACROECONOMIA,ORGANISMOS-INTEGRACION" />
+        <Property FormalName="EfeAmbito">
+          <Property FormalName="WorldRegion" Value="EUROPA" />
+          <Property FormalName="Country" Value="RUSIA" />
+          <Property FormalName="CountryArea" Value="-" />
+        </Property>
+        <Property FormalName="EfeObservaciones" Value="Bielorrusia Oposición|" />
+      </DescriptiveMetadata>
+      <NewsComponent Duid="multimedia_1700852.multimedia.texts">
+        <Role FormalName="Content list" />
+        <NewsComponent Duid="multimedia_1700852.multimedia.texts.4329654" Euid="4329654">
+          <Role FormalName="Main" />
+          <NewsLines>
+            <HeadLine>La justicia bielorrusa confirma la condena al opositor Ales Beliatski a 4,5 años de cárcel</HeadLine>
+            <SubHeadLine>BIELORRUSIA OPOSICIÓN</SubHeadLine>
+          </NewsLines>
+          <DescriptiveMetadata>
+            <Language FormalName="es" />
+            <DateLineDate>20120124T152100+0000</DateLineDate>
+            <!--EFE_IdRefOriginal indicates a source ID for this NewsComponent.
+EFE_IdRefOriginal indica un ID de origen para este NewsComponent.-->
+            <Property FormalName="EFE_IdRefOriginal" Value="T_16896763" />
+            <!--Useful to identificate NewsComponents from the same kind (photo, audio, ...) and content, but with different Euids or Hrefs.
+Util para identificar NewsComponents del mismo tipo y contenido, pero con diferente Euids o Hrefs.-->
+            <Property FormalName="EFE_IdRefObject" Value="4329654" />
+          </DescriptiveMetadata>
+          <ContentItem>
+            <MediaType FormalName="Text" />
+            <Format FormalName="NITF" />
+            <MimeType FormalName="text/vnd.IPTC.NITF" />
+            <DataContent>
+              <nitf version="-//IPTC//DTD NITF 3.2//EN" change.date="October 10, 2003" change.time="19:30" baselang="es-ES">
+                <head>
+                  <title>La justicia bielorrusa confirma la condena al opositor Ales Beliatski a 4,5 años de cárcel</title>
+                  <docdata management-status="usable">
+                    <doc-id id-string="4329654" />
+                  </docdata>
+                </head>
+                <body>
+                  <body.head>
+                    <hedline>
+                      <hl1>La justicia bielorrusa confirma la condena al opositor Ales Beliatski a 4,5 años de cárcel</hl1>
+                      <hl2>BIELORRUSIA OPOSICIÓN</hl2>
+                    </hedline>
+                    <dateline>
+                      <location>Moscú</location>
+                      <!--ATTENTION: Use "norm" attribute as datetime. The datetime inside tag "story.date" is a mistake but we maintain it to avoid errors in our customers.
+ATENCION: Use el atributo "norm" como fecha y hora. La fecha y hora presente en la etiqueta "story.date" es un error pero seguimos incluyéndolo para evitar errores en nuestros clientes.-->
+                      <story.date norm="20120124T152100+0000">20120124T152100+0000</story.date>
+                    </dateline>
+                    <abstract>
+                      <p>Moscú, 24 ene (EFE).- La Justicia bielorrusa confirmó hoy la condena a cuatro años y medio de cárcel del activista bielorruso Ales Beliatski, director de la organización de derechos humanos Viasná (Primavera).</p>
+                    </abstract>
+                  </body.head>
+                  <body.content>
+                    <p>Moscú, 24 ene (EFE).- La Justicia bielorrusa confirmó hoy la condena a cuatro años y medio de cárcel del activista bielorruso Ales Beliatski, director de la organización de derechos humanos Viasná (Primavera).</p>
+                    <p>El Tribunal municipal de Minsk rechazó el recurso interpuesto por los abogados de Beliatski, cuyo procesamiento ha desatado agrias críticas por parte de Occidente, que considera al presidente bielorruso, Alexandr Lukashenko, el último dictador de Europa.</p>
+                    <p>Según el fallo, Beliatski es culpable de evasión de impuestos, por lo que, además de la pena de prisión, tendrá que compensar al Estado con casi 86.000 dólares por impagos.</p>
+                    <p>Estados Unidos y la Unión Europea han calificado de político el fallo y han demandado la inmediata liberación del opositor, que siempre ha mantenido su inocencia.</p>
+                    <p>Según la Justicia bielorrusa, Beliatski dejó de declarar entre 2008 y 2011 ingresos por valor de más de 567.000 euros transferidos a sus cuentas en bancos de Lituania y Polonia por organizaciones internacionales.</p>
+                    <p>Beliatski fue detenido el pasado 4 de agosto después de que las autoridades bielorrusas recibieran notificación sobre dichas cuentas del Ministerio de Justicia de Lituania y de la Fiscalía de Polonia, países que financian desde hace años a la oposición bielorrusa.</p>
+                    <p>Viasná se convirtió en el principal medio de información sobre la represión contra los opositores tras los disturbios postelectorales del 19 de diciembre del año pasado.</p>
+                    <p>La organización bielorrusa informó detalladamente sobre los procesos judiciales contra los opositores, entre los que fueron condenados varios candidatos presidenciales.</p>
+                    <p>El ministro de Exteriores búlgaro, Nikolai Mladenov, que ejerce de mediador de la UE con Minsk, aseguró hace unos meses que Lukashenko se había comprometido a liberar a todos los presos políticos del país para mejorar las relaciones con Bruselas.</p>
+                    <p>Lukashenko, considerado el último dictador de Europa, ha indultado en los últimos meses a 24 opositores procesados y encarcelados por haber participado en los violentos disturbios postelectorales.</p>
+                  </body.content>
+                </body>
+              </nitf>
+            </DataContent>
+          </ContentItem>
+        </NewsComponent>
+      </NewsComponent>
+      <NewsComponent Duid="multimedia_1700852.multimedia.photos">
+        <Role FormalName="Content list" />
+        <NewsComponent Duid="multimedia_1700852.multimedia.photos.4329681" Euid="4329681">
+          <NewsLines>
+            <HeadLine>La justicia bielorrusa confirma la condena al opositor Ales Beliatski a 4,5 años de cárcel</HeadLine>
+          </NewsLines>
+          <AdministrativeMetadata>
+            <Provider>
+              <Party FormalName="Agencia EFE" />
+            </Provider>
+          </AdministrativeMetadata>
+          <DescriptiveMetadata>
+            <Language FormalName="es" />
+            <DateLineDate>20120124T153100+0000</DateLineDate>
+            <Location HowPresent="Origin">
+              <Property FormalName="City" Value="Moscú" />
+            </Location>
+            <!--EFE_IdRefOriginal indicates a source ID for this NewsComponent.
+EFE_IdRefOriginal indica un ID de origen para este NewsComponent.-->
+            <Property FormalName="EFE_IdRefOriginal" Value="FH_5169581" />
+            <!--Useful to identificate NewsComponents from the same kind (photo, audio, ...) and content, but with different Euids or Hrefs.
+Util para identificar NewsComponents del mismo tipo y contenido, pero con diferente Euids o Hrefs.-->
+            <Property FormalName="EFE_IdRefObject" Value="4329681" />
+          </DescriptiveMetadata>
+          <NewsComponent Duid="multimedia_1700852.multimedia.photos.4329681.file">
+            <Role FormalName="Main" />
+            <ContentItem Href="4329681w.jpg">
+              <MediaType FormalName="Photo" />
+              <MimeType FormalName="image/jpeg" />
+              <Characteristics>
+                <SizeInBytes>40392</SizeInBytes>
+                <Property FormalName="Height" Value="537" />
+                <Property FormalName="PixelDepth" Value="24" />
+                <Property FormalName="Width" Value="800" />
+              </Characteristics>
+            </ContentItem>
+          </NewsComponent>
+          <NewsComponent Duid="multimedia_1700852.multimedia.photos.4329681.text">
+            <Role FormalName="Caption" />
+            <ContentItem>
+              <MediaType FormalName="Text" />
+              <Format FormalName="NITF" />
+              <MimeType FormalName="text/vnd.IPTC.NITF" />
+              <DataContent>
+                <nitf version="-//IPTC//DTD NITF 3.2//EN" change.date="October 10, 2003" change.time="19:30" baselang="es-ES">
+                  <head>
+                    <title>La justicia bielorrusa confirma la condena al opositor Ales Beliatski a 4,5 años de cárcel</title>
+                    <docdata management-status="usable">
+                      <doc-id id-string="4329681" />
+                    </docdata>
+                  </head>
+                  <body>
+                    <body.head>
+                      <hedline>
+                        <hl1>La justicia bielorrusa confirma la condena al opositor Ales Beliatski a 4,5 años de cárcel</hl1>
+                      </hedline>
+                      <dateline>
+                        <!--ATTENTION: Use "norm" attribute as datetime. The datetime inside tag "story.date" is a mistake but we maintain it to avoid errors in our customers.
+ATENCION: Use el atributo "norm" como fecha y hora. La fecha y hora presente en la etiqueta "story.date" es un error pero seguimos incluyéndolo para evitar errores en nuestros clientes.-->
+                        <story.date norm="20120124T153100+0000">20120124T153100+0000</story.date>
+                      </dateline>
+                    </body.head>
+                    <body.content>
+                      <p>El director de la organización de derechos humanos bielorrusa Viasna, Ales Beliatski, está enjaulado durante su juicio en Minsk, Bielorrusia. Bialiatski fue condenado a cuatro años y medio de cárcel por evasión de impuestos, aunque sus colegas aseguran que el motivo de su arresto y condena es el seguimiento que Viasna ha hecho de la persecución judicial de la oposición. EFE/Archivo</p>
+                    </body.content>
+                  </body>
+                </nitf>
+              </DataContent>
+            </ContentItem>
+          </NewsComponent>
+        </NewsComponent>
+      </NewsComponent>
+    </NewsComponent>
+  </NewsItem>
+  <NewsItem Duid="multimedia_1700710">
+    <Comment FormalName="EfeNewsMLVersion">1.0.1</Comment>
+    <Identification>
+      <NewsIdentifier>
+        <ProviderId>multimedia.efeservicios.com</ProviderId>
+        <DateId>20120124T132500+0000</DateId>
+        <NewsItemId>1700710</NewsItemId>
+        <RevisionId PreviousRevision="2" Update="U">3</RevisionId>
+        <PublicIdentifier>urn:newsml:multimedia.efeservicios.com:20120124T132500+0000:1700710:3</PublicIdentifier>
+      </NewsIdentifier>
+    </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News" />
+      <FirstCreated>20120124T132500+0000</FirstCreated>
+      <ThisRevisionCreated>20120124T153900+0000</ThisRevisionCreated>
+      <Status FormalName="Usable" />
+      <Urgency FormalName="1" />
+    </NewsManagement>
+    <NewsComponent Duid="multimedia_1700710.multimedia">
+      <NewsLines>
+        <HeadLine>El líder de Hamás visitará oficialmente Jordania por primera vez en 12 años</HeadLine>
+        <SubHeadLine>JORDANIA PALESTINOS</SubHeadLine>
+        <CopyrightLine>© EFE 2012. Está expresamente prohibida la redistribución y la redifusión de todo o parte de los contenidos de los servicios de Efe, sin previo y expreso consentimiento de la Agencia EFE S.A.</CopyrightLine>
+      </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+          <Party FormalName="Agencia EFE" />
+        </Provider>
+        <Creator>
+          <Party FormalName="Agencia EFE" />
+        </Creator>
+      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+        <Language FormalName="es" />
+        <SubjectCode>
+          <!--Disturbios y conflictos-->
+          <Subject FormalName="16000000" Scheme="IptcSubjectCodes" />
+        </SubjectCode>
+        <SubjectCode>
+          <!--Política ; Asuntos exteriores-->
+          <SubjectMatter FormalName="11002000" Scheme="IptcSubjectCodes" />
+        </SubjectCode>
+        <Property FormalName="Tesauro" Value="POL:POLITICA,CONFLICTO;POL:POLITICA,EXTERIOR" />
+        <Property FormalName="EfeAmbito">
+          <Property FormalName="WorldRegion" Value="ORIENTE MEDIO/MAGREB" />
+          <Property FormalName="Country" Value="JORDANIA" />
+          <Property FormalName="CountryArea" Value="-" />
+        </Property>
+        <Property FormalName="EfeObservaciones" Value="Jordania palestinos|Añade mod doc" />
+      </DescriptiveMetadata>
+      <NewsComponent Duid="multimedia_1700710.multimedia.texts">
+        <Role FormalName="Content list" />
+        <NewsComponent Duid="multimedia_1700710.multimedia.texts.4329218" Euid="4329218">
+          <Role FormalName="Main" />
+          <NewsLines>
+            <HeadLine>El líder de Hamás visitará oficialmente Jordania por primera vez en 12 años</HeadLine>
+            <SubHeadLine>JORDANIA PALESTINOS</SubHeadLine>
+          </NewsLines>
+          <DescriptiveMetadata>
+            <Language FormalName="es" />
+            <DateLineDate>20120124T131700+0000</DateLineDate>
+            <!--EFE_IdRefOriginal indicates a source ID for this NewsComponent.
+EFE_IdRefOriginal indica un ID de origen para este NewsComponent.-->
+            <Property FormalName="EFE_IdRefOriginal" Value="T_16895958" />
+            <!--Useful to identificate NewsComponents from the same kind (photo, audio, ...) and content, but with different Euids or Hrefs.
+Util para identificar NewsComponents del mismo tipo y contenido, pero con diferente Euids o Hrefs.-->
+            <Property FormalName="EFE_IdRefObject" Value="4329218" />
+          </DescriptiveMetadata>
+          <ContentItem>
+            <MediaType FormalName="Text" />
+            <Format FormalName="NITF" />
+            <MimeType FormalName="text/vnd.IPTC.NITF" />
+            <DataContent>
+              <nitf version="-//IPTC//DTD NITF 3.2//EN" change.date="October 10, 2003" change.time="19:30" baselang="es-ES">
+                <head>
+                  <title>El líder de Hamás visitará oficialmente Jordania por primera vez en 12 años</title>
+                  <docdata management-status="usable">
+                    <doc-id id-string="4329218" />
+                  </docdata>
+                </head>
+                <body>
+                  <body.head>
+                    <hedline>
+                      <hl1>El líder de Hamás visitará oficialmente Jordania por primera vez en 12 años</hl1>
+                      <hl2>JORDANIA PALESTINOS</hl2>
+                    </hedline>
+                    <dateline>
+                      <location>Ammán</location>
+                      <!--ATTENTION: Use "norm" attribute as datetime. The datetime inside tag "story.date" is a mistake but we maintain it to avoid errors in our customers.
+ATENCION: Use el atributo "norm" como fecha y hora. La fecha y hora presente en la etiqueta "story.date" es un error pero seguimos incluyéndolo para evitar errores en nuestros clientes.-->
+                      <story.date norm="20120124T131700+0000">20120124T131700+0000</story.date>
+                    </dateline>
+                    <abstract>
+                      <p>Ammán, 24 ene (EFE).- El líder del grupo palestino Hamás, Jaled Meshal, iniciará su primera visita oficial en doce años a Jordania el próximo domingo, informó a Efe una fuente gubernamental jordana.</p>
+                    </abstract>
+                  </body.head>
+                  <body.content>
+                    <p>Ammán, 24 ene (EFE).- El líder del grupo palestino Hamás, Jaled Meshal, iniciará su primera visita oficial en doce años a Jordania el próximo domingo, informó a Efe una fuente gubernamental jordana.</p>
+                    <p>Está previsto que Meshal llegue a Ammán el domingo, junto al príncipe heredero de Catar, Tamim bin Hamad al Zani, aseguró el ministro de Estado jordano para Asuntos de Medios de Comunicación, Rakan Mayali.</p>
+                    <p>Jordania expulsó a Meshal y a otros miembros de Hamás a Catar en 1999 después de cerrar la oficina en Ammán del movimiento islamista palestino.</p>
+                    <p>Sin embargo, el punto de inflexión en las relaciones entre Jordania y Hamás llegó hace dos meses, cuando el recién nombrado primer ministro jordano, Awn Jasawneh, declaró que la expulsión de Hamás de Jordania fue un "error tanto legal como constitucional", en alusión a la expulsión de Meshal y sus compañeros.</p>
+                    <p>Sin embargo, al mismo tiempo, el primer ministro jordano dejó claro que no se permitiría al movimiento palestino operar desde Jordania de nuevo.</p>
+                    <p>Según los observadores en Jordania, el viaje de Meshal la semana que viene será la oportunidad para abrir un nuevo capítulo en las relaciones entre Ammán y Hamás, ya que hasta el momento el Gobierno jordano solo reconoce al presidente de la Autoridad Nacional Palestina (Mahmud Abás) como representante legítimo de los palestinos.</p>
+                    <p>Según dijo a Efe un diplomático árabe que pidió el anonimato, las revoluciones de la primavera árabe y la subida al poder de los islamistas en Egipto y Túnez han empujado a las autoridades jordanas a reconsiderar su posición hacia Hamás, que controla la franja de Gaza.</p>
+                    <p>Las últimas veces que se permitió a Meshal, que tiene como base Damasco, entrar en Jordania en visita privada fue el año pasado, para visitar a su madre enferma y en 2009, para acudir al funeral de su padre. </p>
+                  </body.content>
+                </body>
+              </nitf>
+            </DataContent>
+          </ContentItem>
+        </NewsComponent>
+      </NewsComponent>
+      <NewsComponent Duid="multimedia_1700710.multimedia.photos">
+        <Role FormalName="Content list" />
+        <NewsComponent Duid="multimedia_1700710.multimedia.photos.4329243" Euid="4329243">
+          <NewsLines>
+            <HeadLine>El líder de Hamás visitará oficialmente Jordania por primera vez en 12 años</HeadLine>
+          </NewsLines>
+          <AdministrativeMetadata>
+            <Provider>
+              <Party FormalName="Agencia EFE" />
+            </Provider>
+          </AdministrativeMetadata>
+          <DescriptiveMetadata>
+            <Language FormalName="es" />
+            <DateLineDate>20120124T132600+0000</DateLineDate>
+            <Location HowPresent="Origin">
+              <Property FormalName="City" Value="Ammán" />
+            </Location>
+            <!--EFE_IdRefOriginal indicates a source ID for this NewsComponent.
+EFE_IdRefOriginal indica un ID de origen para este NewsComponent.-->
+            <Property FormalName="EFE_IdRefOriginal" Value="F_7681223" />
+            <!--Useful to identificate NewsComponents from the same kind (photo, audio, ...) and content, but with different Euids or Hrefs.
+Util para identificar NewsComponents del mismo tipo y contenido, pero con diferente Euids o Hrefs.-->
+            <Property FormalName="EFE_IdRefObject" Value="4329243" />
+          </DescriptiveMetadata>
+          <NewsComponent Duid="multimedia_1700710.multimedia.photos.4329243.file">
+            <Role FormalName="Main" />
+            <ContentItem Href="4329243w.jpg">
+              <MediaType FormalName="Photo" />
+              <MimeType FormalName="image/jpeg" />
+              <Characteristics>
+                <SizeInBytes>96732</SizeInBytes>
+                <Property FormalName="Height" Value="1141" />
+                <Property FormalName="PixelDepth" Value="24" />
+                <Property FormalName="Width" Value="700" />
+              </Characteristics>
+            </ContentItem>
+          </NewsComponent>
+          <NewsComponent Duid="multimedia_1700710.multimedia.photos.4329243.text">
+            <Role FormalName="Caption" />
+            <ContentItem>
+              <MediaType FormalName="Text" />
+              <Format FormalName="NITF" />
+              <MimeType FormalName="text/vnd.IPTC.NITF" />
+              <DataContent>
+                <nitf version="-//IPTC//DTD NITF 3.2//EN" change.date="October 10, 2003" change.time="19:30" baselang="es-ES">
+                  <head>
+                    <title>El líder de Hamás visitará oficialmente Jordania por primera vez en 12 años</title>
+                    <docdata management-status="usable">
+                      <doc-id id-string="4329243" />
+                    </docdata>
+                  </head>
+                  <body>
+                    <body.head>
+                      <hedline>
+                        <hl1>El líder de Hamás visitará oficialmente Jordania por primera vez en 12 años</hl1>
+                      </hedline>
+                      <dateline>
+                        <!--ATTENTION: Use "norm" attribute as datetime. The datetime inside tag "story.date" is a mistake but we maintain it to avoid errors in our customers.
+ATENCION: Use el atributo "norm" como fecha y hora. La fecha y hora presente en la etiqueta "story.date" es un error pero seguimos incluyéndolo para evitar errores en nuestros clientes.-->
+                        <story.date norm="20120124T132600+0000">20120124T132600+0000</story.date>
+                      </dateline>
+                    </body.head>
+                    <body.content>
+                      <p>Fotografía de archivo facilitada por el departamento de prensa de Hamas que muestra a su líder de Jaled Meshal dirigiéndose a los medios. EFE/Archivo</p>
+                    </body.content>
+                  </body>
+                </nitf>
+              </DataContent>
+            </ContentItem>
+          </NewsComponent>
+        </NewsComponent>
+      </NewsComponent>
+      <NewsComponent Duid="multimedia_1700710.multimedia.moddocs">
+        <Role FormalName="Content list" />
+        <NewsComponent Duid="multimedia_1700710.multimedia.moddocs.4329704" Euid="4329704">
+          <Role FormalName="Main" />
+          <NewsLines>
+            <HeadLine>Hamás observa con esperanzas el ascenso del islamismo en el mundo árabe</HeadLine>
+          </NewsLines>
+          <DescriptiveMetadata>
+            <Language FormalName="es" />
+            <DateLineDate>20120124T153800+0000</DateLineDate>
+            <!--Useful to identificate NewsComponents from the same kind (photo, audio, ...) and content, but with different Euids or Hrefs.
+Util para identificar NewsComponents del mismo tipo y contenido, pero con diferente Euids o Hrefs.-->
+            <Property FormalName="EFE_IdRefObject" Value="4329704" />
+          </DescriptiveMetadata>
+          <ContentItem>
+            <MediaType FormalName="Text" />
+            <MimeType FormalName="text/html" />
+            <DataContent><![CDATA[<div style="BORDER-BOTTOM: 0px; POSITION: absolute; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: black; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: Arial; VISIBILITY: hidden; COLOR: #ffffff; FONT-SIZE: 1px; BORDER-TOP: 0px; TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px; LEFT: 0px" id="curscroll"></div>
+<p>Gaza, 24 ene (EFE).- El movimiento islamista palestino Hamás espera lograr un importante espaldarazo y ganar legitimidad internacional tras el ascenso al poder del islamismo a que han dado lugar algunas de las llamadas "primaveras árabes".<br />La imagen de la primera sesión de la nueva Cámara Baja egipcia, dominada por los islamistas que ocupan cerca de un 75 por ciento de los escaños, se observaba ayer con expectación en las televisiones de Gaza, donde Hamás confía que el cambio favorezca su posición y mejorare su estatus internacional.<br />Los seguidores del Movimiento de Resistencia Islámico ven en el ascenso del islamismo, fundamentalmente en el vecino Egipto pero también en otros países como Túnez y Marruecos, una rendija para salir de su aislamiento internacional.<br />El portavoz de Hamás en Gaza, Fawzi Barhum, explicó a Efe que "la victoria de los islamistas en las elecciones egipcias dará un empujón al pueblo palestino y a su justa causa, porque la causa palestina es santa y está en los corazones de todos los musulmanes del mundo".<br />"Cuando las naciones árabes votaron a los islamistas, fundamentalmente en Egipto, eso significa que los intentos estadounidenses e israelíes durante los últimos cinco años para erradicar el movimiento de Hamás, aislarlo y destruir la franja de Gaza han sido un completo fracaso", añadió.<br />Uno de los primeros beneficios de que gozará Hamás próximamente es la apertura de una sede en El Cairo, lo que le permitirá tener una mayor influencia en la política árabe.<br />Además, los islamistas esperan que las restricciones al movimiento a través del paso de Rafah -la única frontera de Gaza que no es con Israel- pronto cesarán y podrán salir y entrar de la franja con libertad, un sueño que esperan desde hace un lustro.<br />El derrocado gobierno de Hosni Mubarak colaboró con el bloqueo impuesto por Israel sobre Gaza tras la toma de poder por la fuerza de Hamás en junio de 2007, al cerrar Rafah y permitir solo la salida y entrada de personas con permisos especiales (estudiantes con becas, diplomáticos extranjeros o casos humanitarios).<br />&nbsp;El analista político de Gaza Hani Habib cree que "un gobierno de los Hermanos Musulmanes en Egipto cambiará la situación regional, porque será más flexible que el Ejecutivo anterior".<br />&nbsp;Según él, "la influencia será positiva, mejorarán las relaciones exteriores (de Hamás) y Occidente será más flexible para resolver los asuntos que atañen a la región".<br />Europa y EE.UU. consideran a Hamás un grupo terrorista, no hablan con sus representantes ni consideran legítimo el gobierno que estos ejercen en la franja palestina.<br />Por ello, creen los islamistas, tener en El Cairo un valedor que comparta sus ideas podría ser una baza fundamental para abrir a sus miembros a la comunidad internacional.<br />En la calle, los gazanos oscilan en el optimismo y el pesimismo frente a la nueva situación política regional.<br />Mientras unos creen que los Hermanos Musulmanes traerán consigo el fin del bloqueo, la apertura permanente de la frontera y el florecimiento económico de Gaza, otros temen que Hamás se fortalezca demasiado y no avance en la necesaria reconciliación con el movimiento nacionalista Fatah, que dirige el presidente palestino Mahmud Abás y gobierna en Cisjordania.<br />El pasado mayo y tras cuatro años de duro enfrentamiento, Hamas y Fatah lograron alcanzar con mediación egipcia un acuerdo por el que se comprometían a resolver sus controversias y elegir un gobierno de unidad que se encargaría de convocar elecciones presidenciales y regionales antes de un año, algo que todavía no han conseguido.<br />&nbsp;El profesor de Ciencia Política de la Universidad Islámica de Gaza, Naji Shurab, cree que el fortalecimiento que los Hermanos Musulmanes darán a Hamas "no tiene necesariamente que derivar en que disminuyan las oportunidades para acabar con la división palestina, sino todo lo contrario: los esfuerzos para lograr la reconciliación se redoblarán".<br />Por su parte, el también profesor de la Universidad de Al Azhar, Mejemer Abu Seda, advierte que "el ascenso de los islamistas no significará un levantamiento inmediato del bloqueo a Gaza, porque ello requeriría un consenso internacional que no existe. Pero si que se relajará la presión y levantará las restricciones sobre los palestinos del anterior régimen". </p>
+<p>Por Saud Abú Ramadán<br /></p>]]></DataContent>
+          </ContentItem>
+        </NewsComponent>
+      </NewsComponent>
+    </NewsComponent>
+  </NewsItem>
+  <NewsItem Duid="multimedia_1700558">
+    <Comment FormalName="EfeNewsMLVersion">1.0.1</Comment>
+    <Identification>
+      <NewsIdentifier>
+        <ProviderId>multimedia.efeservicios.com</ProviderId>
+        <DateId>20120124T093600+0000</DateId>
+        <NewsItemId>1700558</NewsItemId>
+        <RevisionId PreviousRevision="10" Update="U">11</RevisionId>
+        <PublicIdentifier>urn:newsml:multimedia.efeservicios.com:20120124T093600+0000:1700558:11</PublicIdentifier>
+      </NewsIdentifier>
+    </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News" />
+      <FirstCreated>20120124T093600+0000</FirstCreated>
+      <ThisRevisionCreated>20120124T153900+0000</ThisRevisionCreated>
+      <Status FormalName="Usable" />
+      <Urgency FormalName="1" />
+    </NewsManagement>
+    <NewsComponent Duid="multimedia_1700558.multimedia">
+      <NewsLines>
+        <HeadLine>De Guindos asegura que España no necesitará ningún rescate si hace las reformas planteadas</HeadLine>
+        <SubHeadLine>CRISIS ESPAÑA</SubHeadLine>
+        <CopyrightLine>© EFE 2012. Está expresamente prohibida la redistribución y la redifusión de todo o parte de los contenidos de los servicios de Efe, sin previo y expreso consentimiento de la Agencia EFE S.A.</CopyrightLine>
+      </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+          <Party FormalName="Agencia EFE" />
+        </Provider>
+        <Creator>
+          <Party FormalName="Agencia EFE" />
+        </Creator>
+      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+        <Language FormalName="es" />
+        <SubjectCode>
+          <!--Economía- negocios y finanzas-->
+          <Subject FormalName="04000000" Scheme="IptcSubjectCodes" />
+        </SubjectCode>
+        <Property FormalName="Tesauro" Value="ECO:ECONOMIA" />
+        <Property FormalName="EfeAmbito">
+          <Property FormalName="WorldRegion" Value="EUROPA" />
+          <Property FormalName="Country" Value="BELGICA" />
+          <Property FormalName="CountryArea" Value="-" />
+        </Property>
+        <Property FormalName="EfeObservaciones" Value="crisis ue de guindos|añade texto" />
+      </DescriptiveMetadata>
+      <NewsComponent Duid="multimedia_1700558.multimedia.texts">
+        <Role FormalName="Content list" />
+        <NewsComponent Duid="multimedia_1700558.multimedia.texts.4329649" Euid="4329649">
+          <Role FormalName="Main" />
+          <NewsLines>
+            <HeadLine>De Guindos asegura que España no necesitará ningún rescate si hace las reformas planteadas</HeadLine>
+            <SubHeadLine>CRISIS ESPAÑA</SubHeadLine>
+          </NewsLines>
+          <DescriptiveMetadata>
+            <Language FormalName="es" />
+            <DateLineDate>20120124T151900+0000</DateLineDate>
+            <!--EFE_IdRefOriginal indicates a source ID for this NewsComponent.
+EFE_IdRefOriginal indica un ID de origen para este NewsComponent.-->
+            <Property FormalName="EFE_IdRefOriginal" Value="T_16896658" />
+            <!--Useful to identificate NewsComponents from the same kind (photo, audio, ...) and content, but with different Euids or Hrefs.
+Util para identificar NewsComponents del mismo tipo y contenido, pero con diferente Euids o Hrefs.-->
+            <Property FormalName="EFE_IdRefObject" Value="4329649" />
+          </DescriptiveMetadata>
+          <ContentItem>
+            <MediaType FormalName="Text" />
+            <Format FormalName="NITF" />
+            <MimeType FormalName="text/vnd.IPTC.NITF" />
+            <DataContent>
+              <nitf version="-//IPTC//DTD NITF 3.2//EN" change.date="October 10, 2003" change.time="19:30" baselang="es-ES">
+                <head>
+                  <title>De Guindos asegura que España no necesitará ningún rescate si hace las reformas planteadas</title>
+                  <docdata management-status="usable">
+                    <doc-id id-string="4329649" />
+                  </docdata>
+                </head>
+                <body>
+                  <body.head>
+                    <hedline>
+                      <hl1>De Guindos asegura que España no necesitará ningún rescate si hace las reformas planteadas</hl1>
+                      <hl2>CRISIS ESPAÑA</hl2>
+                    </hedline>
+                    <dateline>
+                      <location>Bruselas</location>
+                      <!--ATTENTION: Use "norm" attribute as datetime. The datetime inside tag "story.date" is a mistake but we maintain it to avoid errors in our customers.
+ATENCION: Use el atributo "norm" como fecha y hora. La fecha y hora presente en la etiqueta "story.date" es un error pero seguimos incluyéndolo para evitar errores en nuestros clientes.-->
+                      <story.date norm="20120124T151900+0000">20120124T151900+0000</story.date>
+                    </dateline>
+                    <abstract>
+                      <p>Bruselas, 24 ene (EFE).- El ministro español de Economía, Luis de Guindos, aseguró hoy que España no necesitará ningún plan de asistencia financiera si lleva a cabo las reformas que ha planteado el Gobierno de Mariano Rajoy.</p>
+                    </abstract>
+                  </body.head>
+                  <body.content>
+                    <p>Bruselas, 24 ene (EFE).- El ministro español de Economía, Luis de Guindos, aseguró hoy que España no necesitará ningún plan de asistencia financiera si lleva a cabo las reformas que ha planteado el Gobierno de Mariano Rajoy.</p>
+                    <p>"España no tiene en estos momentos un problema de liquidez en absoluto ni un problema de solvencia", recalcó el ministro al término de la reunión de hoy en Bruselas del Ecofin.</p>
+                    <p>De Guindos afirmó que si el Ejecutivo lleva a cabo las reformas que ha planteado en su plan de ajuste presupuestario "España no necesitará un plan de ayuda".</p>
+                    <p>El ministro aludió a las subastas de hoy de letras del Tesoro y recordó que se ha producido "una caída muy importante de los tipos de interés" en las últimas subastas de deuda de España.</p>
+                    <p>España logró hoy bajar por sexta vez consecutiva el interés aplicado a una emisión de deuda y, tras adjudicar 2.506 millones de euros en letras a corto plazo, suma en enero 24.000 millones, el 14 % del importe total de vencimientos a los que tiene que hacer frente este año. </p>
+                  </body.content>
+                </body>
+              </nitf>
+            </DataContent>
+          </ContentItem>
+        </NewsComponent>
+        <NewsComponent Duid="multimedia_1700558.multimedia.texts.4329381" Euid="4329381">
+          <Role FormalName="Main" />
+          <NewsLines>
+            <HeadLine>De Guindos dice que el objetivo de déficit de España es "de momento" el 4,4 por ciento</HeadLine>
+            <SubHeadLine>CRISIS ESPAÑA</SubHeadLine>
+          </NewsLines>
+          <DescriptiveMetadata>
+            <Language FormalName="es" />
+            <DateLineDate>20120124T140700+0000</DateLineDate>
+            <!--EFE_IdRefOriginal indicates a source ID for this NewsComponent.
+EFE_IdRefOriginal indica un ID de origen para este NewsComponent.-->
+            <Property FormalName="EFE_IdRefOriginal" Value="T_16896376" />
+            <!--Useful to identificate NewsComponents from the same kind (photo, audio, ...) and content, but with different Euids or Hrefs.
+Util para identificar NewsComponents del mismo tipo y contenido, pero con diferente Euids o Hrefs.-->
+            <Property FormalName="EFE_IdRefObject" Value="4329381" />
+          </DescriptiveMetadata>
+          <ContentItem>
+            <MediaType FormalName="Text" />
+            <Format FormalName="NITF" />
+            <MimeType FormalName="text/vnd.IPTC.NITF" />
+            <DataContent>
+              <nitf version="-//IPTC//DTD NITF 3.2//EN" change.date="October 10, 2003" change.time="19:30" baselang="es-ES">
+                <head>
+                  <title>De Guindos dice que el objetivo de déficit de España es "de momento" el 4,4 por ciento</title>
+                  <docdata management-status="usable">
+                    <doc-id id-string="4329381" />
+                  </docdata>
+                </head>
+                <body>
+                  <body.head>
+                    <hedline>
+                      <hl1>De Guindos dice que el objetivo de déficit de España es "de momento" el 4,4 por ciento</hl1>
+                      <hl2>CRISIS ESPAÑA</hl2>
+                    </hedline>
+                    <dateline>
+                      <location>Bruselas</location>
+                      <!--ATTENTION: Use "norm" attribute as datetime. The datetime inside tag "story.date" is a mistake but we maintain it to avoid errors in our customers.
+ATENCION: Use el atributo "norm" como fecha y hora. La fecha y hora presente en la etiqueta "story.date" es un error pero seguimos incluyéndolo para evitar errores en nuestros clientes.-->
+                      <story.date norm="20120124T140700+0000">20120124T140700+0000</story.date>
+                    </dateline>
+                    <abstract>
+                      <p>Bruselas, 24 ene (EFE).- El ministro de Economía, Luis de Guindos, afirmó hoy que el objetivo de déficit de España para este año sigue siendo "de momento" el 4,4 % del PIB y que un cambio en el mismo no está en la agenda.</p>
+                    </abstract>
+                  </body.head>
+                  <body.content>
+                    <p>Bruselas, 24 ene (EFE).- El ministro de Economía, Luis de Guindos, afirmó hoy que el objetivo de déficit de España para este año sigue siendo "de momento" el 4,4 % del PIB y que un cambio en el mismo no está en la agenda.</p>
+                    <p>"El objetivo de déficit del Gobierno en estos momentos es el 4,4 % del PIB y no hay ninguna modificación al respecto", afirmó el ministro al término del Ecofin de hoy en Bruselas.</p>
+                    <p>El retraso o modificación de este objetivo "no está en la agenda en absoluto", insistió, después de que el titular de Hacienda, Cristóbal Montoro, volviese a sugerir recientemente que España podría no cumplir esa meta y que convendría renegociar ese techo con Bruselas. </p>
+                  </body.content>
+                </body>
+              </nitf>
+            </DataContent>
+          </ContentItem>
+        </NewsComponent>
+        <NewsComponent Duid="multimedia_1700558.multimedia.texts.4329662" Euid="4329662">
+          <Role FormalName="Main" />
+          <NewsLines>
+            <HeadLine>De Guindos dice que "todo mensaje de moderación salarial es positivo"</HeadLine>
+            <SubHeadLine>ESPAÑA EMPLEO</SubHeadLine>
+          </NewsLines>
+          <DescriptiveMetadata>
+            <Language FormalName="es" />
+            <DateLineDate>20120124T152300+0000</DateLineDate>
+            <!--EFE_IdRefOriginal indicates a source ID for this NewsComponent.
+EFE_IdRefOriginal indica un ID de origen para este NewsComponent.-->
+            <Property FormalName="EFE_IdRefOriginal" Value="T_16896774" />
+            <!--Useful to identificate NewsComponents from the same kind (photo, audio, ...) and content, but with different Euids or Hrefs.
+Util para identificar NewsComponents del mismo tipo y contenido, pero con diferente Euids o Hrefs.-->
+            <Property FormalName="EFE_IdRefObject" Value="4329662" />
+          </DescriptiveMetadata>
+          <ContentItem>
+            <MediaType FormalName="Text" />
+            <Format FormalName="NITF" />
+            <MimeType FormalName="text/vnd.IPTC.NITF" />
+            <DataContent>
+              <nitf version="-//IPTC//DTD NITF 3.2//EN" change.date="October 10, 2003" change.time="19:30" baselang="es-ES">
+                <head>
+                  <title>De Guindos dice que "todo mensaje de moderación salarial es positivo"</title>
+                  <docdata management-status="usable">
+                    <doc-id id-string="4329662" />
+                  </docdata>
+                </head>
+                <body>
+                  <body.head>
+                    <hedline>
+                      <hl1>De Guindos dice que "todo mensaje de moderación salarial es positivo"</hl1>
+                      <hl2>ESPAÑA EMPLEO</hl2>
+                    </hedline>
+                    <dateline>
+                      <location>Bruselas</location>
+                      <!--ATTENTION: Use "norm" attribute as datetime. The datetime inside tag "story.date" is a mistake but we maintain it to avoid errors in our customers.
+ATENCION: Use el atributo "norm" como fecha y hora. La fecha y hora presente en la etiqueta "story.date" es un error pero seguimos incluyéndolo para evitar errores en nuestros clientes.-->
+                      <story.date norm="20120124T152300+0000">20120124T152300+0000</story.date>
+                    </dateline>
+                    <abstract>
+                      <p>Bruselas, 24 ene (EFE).- El ministro español de Economía, Luis de Guindos, valoró hoy el acuerdo sobre negociación colectiva cerrado hoy entre la patronal y los principales sindicatos al afirmar que "todo mensaje de moderación salarial como el que se ha dado es positivo".</p>
+                    </abstract>
+                  </body.head>
+                  <body.content>
+                    <p>Bruselas, 24 ene (EFE).- El ministro español de Economía, Luis de Guindos, valoró hoy el acuerdo sobre negociación colectiva cerrado hoy entre la patronal y los principales sindicatos al afirmar que "todo mensaje de moderación salarial como el que se ha dado es positivo".</p>
+                    <p>El acuerdo, pendiente de ratificación de los máximos órganos de las dos partes, establece que el alza salarial en 2012 será de hasta el 0,5 %, y en 2013 y 2014 de hasta el 0,6 %, que puede ser actualizada en función de ciertos baremos pero no consolidable en nómina.</p>
+                    <p>De Guindos, quien asistió hoy a su primer Consejo de Ministros comunitario de Economía y Finanzas, estimó que este acuerdo es "el más adecuado" para poder llevar a cabo la reforma laboral que pretende implantar el Gobierno.</p>
+                    <p>El ministro aseguró, en una rueda de prensa al final de la reunión, que hay "una posibilidad de mejora importante" en la reforma laboral, y que su impacto en la economía y el empleo será "positivo", ya que "no puede ir peor".</p>
+                    <p>Recalcó que la reforma laboral es una prioridad "fundamental" del Gobierno, en la que se va a poner "todo el énfasis" en las próximas semanas.</p>
+                    <p>De Guindos aseguró que las instituciones europeas "están pidiendo" a España "un esfuerzo" en esta reforma, ya que consideran que las realizadas previamente han sido "un fracaso" visto que se trata del país con mayor índice de paro de toda la Unión Europea.</p>
+                    <p>En este sentido, explicó que si otros países europeos también muy afectados por la crisis financiera de 2008 no han sufrido un aumento tan fuerte del desempleo se debe a que las legislaciones laborales de esos socios comunitarios son diferentes.</p>
+                    <p>Explicó por ejemplo que Alemania no tuvo deterioro del mercado laboral a pesar de la crisis, que "golpeó en 2009 con extrema dureza a Alemania, y es una de las razones básicas que nos impulsan a las reformas, especialmente a la reforma del mercado laboral".</p>
+                    <p>De Guindos añadió que, para promover el empleo, hará falta también actuar en la negociación colectiva, en "la simplificación de la selva de contratos" para facilitar la contratación de los jóvenes y la mejora de las políticas activas de empleo. </p>
+                  </body.content>
+                </body>
+              </nitf>
+            </DataContent>
+          </ContentItem>
+        </NewsComponent>
+      </NewsComponent>
+      <NewsComponent Duid="multimedia_1700558.multimedia.photos">
+        <Role FormalName="Content list" />
+        <NewsComponent Duid="multimedia_1700558.multimedia.photos.4329168" Euid="4329168">
+          <NewsLines>
+            <HeadLine>De Guindos asegura que España no necesitará ningún rescate si hace las reformas planteadas</HeadLine>
+          </NewsLines>
+          <AdministrativeMetadata>
+            <Provider>
+              <Party FormalName="Agencia EFE" />
+            </Provider>
+          </AdministrativeMetadata>
+          <DescriptiveMetadata>
+            <Language FormalName="es" />
+            <DateLineDate>20120124T125900+0000</DateLineDate>
+            <Location HowPresent="Origin">
+              <Property FormalName="City" Value="Bruselas" />
+            </Location>
+            <!--EFE_IdRefOriginal indicates a source ID for this NewsComponent.
+EFE_IdRefOriginal indica un ID de origen para este NewsComponent.-->
+            <Property FormalName="EFE_IdRefOriginal" Value="F_7685681" />
+            <!--Useful to identificate NewsComponents from the same kind (photo, audio, ...) and content, but with different Euids or Hrefs.
+Util para identificar NewsComponents del mismo tipo y contenido, pero con diferente Euids o Hrefs.-->
+            <Property FormalName="EFE_IdRefObject" Value="4329168" />
+          </DescriptiveMetadata>
+          <NewsComponent Duid="multimedia_1700558.multimedia.photos.4329168.file">
+            <Role FormalName="Main" />
+            <ContentItem Href="4329168w.jpg">
+              <MediaType FormalName="Photo" />
+              <MimeType FormalName="image/jpeg" />
+              <Characteristics>
+                <SizeInBytes>50976</SizeInBytes>
+                <Property FormalName="Height" Value="532" />
+                <Property FormalName="PixelDepth" Value="24" />
+                <Property FormalName="Width" Value="800" />
+              </Characteristics>
+            </ContentItem>
+          </NewsComponent>
+          <NewsComponent Duid="multimedia_1700558.multimedia.photos.4329168.text">
+            <Role FormalName="Caption" />
+            <ContentItem>
+              <MediaType FormalName="Text" />
+              <Format FormalName="NITF" />
+              <MimeType FormalName="text/vnd.IPTC.NITF" />
+              <DataContent>
+                <nitf version="-//IPTC//DTD NITF 3.2//EN" change.date="October 10, 2003" change.time="19:30" baselang="es-ES">
+                  <head>
+                    <title>De Guindos asegura que España no necesitará ningún rescate si hace las reformas planteadas</title>
+                    <docdata management-status="usable">
+                      <doc-id id-string="4329168" />
+                    </docdata>
+                  </head>
+                  <body>
+                    <body.head>
+                      <hedline>
+                        <hl1>De Guindos asegura que España no necesitará ningún rescate si hace las reformas planteadas</hl1>
+                      </hedline>
+                      <dateline>
+                        <!--ATTENTION: Use "norm" attribute as datetime. The datetime inside tag "story.date" is a mistake but we maintain it to avoid errors in our customers.
+ATENCION: Use el atributo "norm" como fecha y hora. La fecha y hora presente en la etiqueta "story.date" es un error pero seguimos incluyéndolo para evitar errores en nuestros clientes.-->
+                        <story.date norm="20120124T125900+0000">20120124T125900+0000</story.date>
+                      </dateline>
+                    </body.head>
+                    <body.content>
+                      <p>El ministro español de Economía, Luis de Guindos (dcha), conversa con el ministro húngaro Gyorgy Matolcsy (izda), hoy al comienzo de la segunda jornada de la reunión de ministros de Finanzas de la Unión Europea en Bruselas (Bélgica). EFE</p>
+                    </body.content>
+                  </body>
+                </nitf>
+              </DataContent>
+            </ContentItem>
+          </NewsComponent>
+        </NewsComponent>
+      </NewsComponent>
+    </NewsComponent>
+  </NewsItem>
+</NewsML>

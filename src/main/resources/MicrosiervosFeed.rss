@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>Microsiervos</title>
+      <link>http://www.microsiervos.com/</link>
+      <description>Microsiervos es la colección de apuntes de un grupo de geeks: Alvy, Nacho y Wicho. Encontrarás historias divulgativas sobre temas que nos gustan: Tecnología, Ciencia, Internet, Gadgets... Algunas anotaciones son muy geeks, otras no tanto.</description>
+      <language>es</language>
+      <copyright>Copyright 2014</copyright>
+      <lastBuildDate>Tue, 22 Jul 2014 09:56:12 +0100</lastBuildDate>
+      <generator>http://www.sixapart.com/movabletype/?v=4.25</generator>
+      <docs>http://blogs.law.harvard.edu/tech/rss</docs> 
+      <atom:link href="http://www.microsiervos.com/index.xml" rel="self" type="application/rss+xml" />
+      
+      <item>
+         <title>Gráficas interesantes creadas con datos variados, a cual más rara</title>
+<author>alvy@microsiervos.com (Alvy)</author>
+         <description><![CDATA[<p align="center"><img src="http://img.microsiervos.com/1947-wiki.jpg" height="370" width="480" border="0" vspace="5" alt="1947-Wiki" /></p>
+
+<p><a href="http://www.nefariousplots.com/figures/1"><strong>Nefarious Plots</strong></a> crea visualizaciones con datos procedentes de diversas fuentes, de formas enrevesadas y curiosas. Este por ejemplo muestra la <a href="http://www.nefariousplots.com/figures/3">distribución de la «gente notable»</a> –desde el principio de los tiempos– personas que alcanzaron un «grado de relevancia» suficiente como para <strong>aparecer en la Wikipedia</strong>. El año «mágico» es <strong>1947, que es donde nacieron más figuras históricas</strong> – o al menos sobre las que más se ha escrito.</p>
+
+<p>Para este gráfico se analizaron unos 990.000 artículos, intentando afinar el siglo, década y año exactos de los protagonistas; cuando no fue posible se prorratearon. La gráfica es interactiva y entre otras cosas permite ver los valores tanto en bruto como normalizados según el crecimiento de la población mundial. ¡Ah! La edad media para «ser notable» resultó ser de promedio <strong>los 30 años.</strong> </p>
+
+<p align="center"><img src="http://img.microsiervos.com/cocktail-combo.jpg" height="423" width="400" border="0" vspace="5" alt="Cocktail-Combo" /></p>
+
+<p>Este otro gráfico parte de (casi) todos los <a href="http://www.nefariousplots.com/figures/1">ingredientes posibles para un cocktail</a> y muestra cómo pueden mezclarse entre sí, con el gintonic como claro vencedor, seguido del cubalibre. Falta saber si está creado antes de la «era de los <em>gintonics extravagantes».</em></p>]]>
+<![CDATA[<p><a href="http://www.microsiervos.com/archivo/mundoreal/graficas-interesantes.html"># Enlace Permanente</a></p>]]>
+
+</description>
+         <link>http://www.microsiervos.com/archivo/mundoreal/graficas-interesantes.html</link>
+         <guid>http://www.microsiervos.com/archivo/mundoreal/graficas-interesantes.html</guid>
+         <category>MundoReal™</category>
+         <pubDate>Tue, 22 Jul 2014 09:56:12 +0100</pubDate>
+         <!-- ItemID 75193 -->
+      </item>
+      
+      <item>
+         <title>Las redes sociales son para cosas serias</title>
+<author>alvy@microsiervos.com (Alvy)</author>
+         <description><![CDATA[<p class="frase" style="font-size:130%;">Cuando alguien me pregunta por qué tuiteo gilipolleces le recuerdo que a Twitter se viene a hablar del modelo estándar físico de partículas.</p><p align="right">– <a href="https://twitter.com/BloodyMery_/status/485826740678565888">Bloddy Mary</a></p>]]>
+<![CDATA[<p><a href="http://www.microsiervos.com/archivo/frases-citas/redes-sociales-cosas-serias.html"># Enlace Permanente</a></p>]]>
+
+</description>
+         <link>http://www.microsiervos.com/archivo/frases-citas/redes-sociales-cosas-serias.html</link>
+         <guid>http://www.microsiervos.com/archivo/frases-citas/redes-sociales-cosas-serias.html</guid>
+         <category>Frases, Citas</category>
+         <pubDate>Tue, 22 Jul 2014 01:41:43 +0100</pubDate>
+         <!-- ItemID 75261 -->
+      </item>
+      
+      <item>
+         <title>Este reloj es una cuenta atrás del tiempo que te queda de vida</title>
+<author>nacho@internality.com (Nacho)</author>
+         <description><![CDATA[<p align="center"><a href="https://www.kickstarter.com/projects/259499751/tikker-the-wrist-watch-that-counts-down-your-life"><img src="http://www.microsiervos.com/images/tikker-reloj-cuenta-atras.jpg" height="278" width="500" border="0" hspace="0" vspace="0" alt="" title="" /></a></p>
+
+<blockquote>Aunque la cuenta atrás hasta tu muerte comenzó en el momento en que naciste, Tikker sirve para recordarte que tu tiempo es limitado.</blockquote>
+
+<p>Una idea simple y algo macabra que además <em>contiene trazas de frutos secos y de autoayuda extrema</em>: <a href="https://www.kickstarter.com/projects/259499751/tikker-the-wrist-watch-that-counts-down-your-life"><strong>el reloj de pulsera Tikker</strong></a>, además de dar la hora, muestra una cuenta atrás del tiempo que te queda de vida. La fecha aproximada de la muerte se calcula después de seguir un cuestionario que se incluye con el reloj; ese resultado determina la configuración que hay que introducir en el cronógrafo de cuenta atrás.</p>
+
+<p>Y a partir de ahí, <em>tic-tac, tic-tac,</em>...</p>
+
+<p>Vía <a href="http://www.ohgizmo.com/2014/07/21/tikker-watch-counts-life/">OhGizmo</a>, <a href="http://www.nopuedocreer.com/quelohayaninventado/">No Puedo Creer</a>.</p>]]>
+<![CDATA[<p><a href="http://www.microsiervos.com/archivo/gadgets/reloj-cuenta-atras-tiempo-queda-vida.html"># Enlace Permanente</a></p>]]>
+
+</description>
+         <link>http://www.microsiervos.com/archivo/gadgets/reloj-cuenta-atras-tiempo-queda-vida.html</link>
+         <guid>http://www.microsiervos.com/archivo/gadgets/reloj-cuenta-atras-tiempo-queda-vida.html</guid>
+         <category>Gadgets</category>
+         <pubDate>Mon, 21 Jul 2014 10:45:32 +0100</pubDate>
+         <!-- ItemID 75260 -->
+      </item>
+      
+      <item>
+         <title>Aseos públicos con luces</title>
+<author>alvy@microsiervos.com (Alvy)</author>
+         <description><![CDATA[<p align="center"><img src="http://img.microsiervos.com/tooshlights.jpg" height="347" width="400" border="0" vspace="5" alt="Tooshlights" /></p>
+
+<p>¿Roja? ¿Roja? ¿Roja…? ¡Luz verde! Esta curiosa idea <strong>ahorra el 50 por ciento de tiempo a la hora de localizar las cabinas libres en los aseos públicos.</strong> Se llama <a href="http://www.tooshlights.com/about/"><strong>Tooshlights</strong></a> y su principio es el mismo que el que ya hay en muchos aparcamientos para localizar las plazas más fácilmente.</p>
+
+<p>Pero no se yo si ese ahorro será tanto, al menos que los baños sean enormes y haya verdaderas aglomeraciones de gente – que no siempre es el caso. Más detalles: <a href="http://www.forbes.com/sites/andrewbender/2014/06/30/the-new-technology-that-could-cut-public-restroom-wait-times-by-50/"><strong>The New Technology That Could Cut Public Restroom Wait Times By 50%</strong></a> <em>(Forbes)</em>.</p>]]>
+<![CDATA[<p><a href="http://www.microsiervos.com/archivo/mundoreal/aseos-publicos-con-luces.html"># Enlace Permanente</a></p>]]>
+
+</description>
+         <link>http://www.microsiervos.com/archivo/mundoreal/aseos-publicos-con-luces.html</link>
+         <guid>http://www.microsiervos.com/archivo/mundoreal/aseos-publicos-con-luces.html</guid>
+         <category>MundoReal™</category>
+         <pubDate>Mon, 21 Jul 2014 10:00:00 +0100</pubDate>
+         <!-- ItemID 75222 -->
+      </item>
+      
+      <item>
+         <title>Corazoncito de hacker</title>
+<author>wicho@microsiervos.com (Wicho)</author>
+         <description><![CDATA[<p class="frase">El numero 65 536 es feo para cualquiera excepto para un hacker, que se lo conoce mejor que el cumpleaños de su madre.</p><p align="right">– <a href="https://twitter.com/CompSciFact/status/485610355306266624">@CompSciFact</a><br/>(vía <a href="https://twitter.com/fcuartero/status/490176597325262849">@fcuartero</a>)</p>]]>
+<![CDATA[<p><a href="http://www.microsiervos.com/archivo/frases-citas/corazoncito-de-hacker.html"># Enlace Permanente</a></p>]]>
+
+</description>
+         <link>http://www.microsiervos.com/archivo/frases-citas/corazoncito-de-hacker.html</link>
+         <guid>http://www.microsiervos.com/archivo/frases-citas/corazoncito-de-hacker.html</guid>
+         <category>Frases, Citas</category>
+         <pubDate>Mon, 21 Jul 2014 08:00:00 +0100</pubDate>
+         <!-- ItemID 75259 -->
+      </item>
+      
+      <item>
+         <title>«Confiamos en ti porque eres el diseñador»</title>
+<author>alvy@microsiervos.com (Alvy)</author>
+         <description><![CDATA[<p align="center"><img src="http://img.microsiervos.com/disenador03.jpg" height="350" width="350" border="0" vspace="5" alt="Disenador03" /></p>
+
+<p><a href="http://www.zerouno.org/portfolio/what-not-to-say-to-a-graphic-designer/"><strong>Cosas que nunca debes decir a un diseñador</strong></a> si no quieres que te muerda con odio desatado.</p>
+
+<p align="center"><img src="http://img.microsiervos.com/disenador04.jpg" height="350" width="350" border="0" vspace="5" alt="Disenador04" /></p>
+
+<p>Desde el absurdo «Podrías probar con un color más <em>poderoso</em>» al clásico gañanismo «¿Cómo? ¿Que el logo está en baja resolución? Ah, pues en mi pantalla se ve bien».</p>
+
+<p>Y por supuesto no podría faltar el famoso y universal <strong>«Venga, que solo tardarás un minutito».</strong></p>
+
+<p>(Vía <a href="http://feedproxy.google.com/~r/designtaxi_news/~3/CpIwSCov6Tw/" title="Things You Shouldn’t Say To A Graphic Designer">Taxi</a>.)</p>]]>
+<![CDATA[<p><a href="http://www.microsiervos.com/archivo/humor/confiamos-en-ti-disenador.html"># Enlace Permanente</a></p>]]>
+
+</description>
+         <link>http://www.microsiervos.com/archivo/humor/confiamos-en-ti-disenador.html</link>
+         <guid>http://www.microsiervos.com/archivo/humor/confiamos-en-ti-disenador.html</guid>
+         <category>Humor</category>
+         <pubDate>Sun, 20 Jul 2014 10:00:00 +0100</pubDate>
+         <!-- ItemID 75201 -->
+      </item>
+      
+      <item>
+         <title>Teletexto forever</title>
+<author>alvy@microsiervos.com (Alvy)</author>
+         <description><![CDATA[<p class="frase">Y la crisis va pasando, y cientos de empresas cerrando, y ahí sigue el Teletexto, con dos cojones.</p><p align="right">– <a href="https://twitter.com/Profeta_Baruc/status/428283094164983808">Profeta Baruc</a><br/>(vía <a href="https://www.facebook.com/icordoba">Ignacio de Córdoba</a>)</p>]]>
+<![CDATA[<p><a href="http://www.microsiervos.com/archivo/frases-citas/teletexto-forever.html"># Enlace Permanente</a></p>]]>
+
+</description>
+         <link>http://www.microsiervos.com/archivo/frases-citas/teletexto-forever.html</link>
+         <guid>http://www.microsiervos.com/archivo/frases-citas/teletexto-forever.html</guid>
+         <category>Frases, Citas</category>
+         <pubDate>Sun, 20 Jul 2014 00:00:01 +0100</pubDate>
+         <!-- ItemID 75248 -->
+      </item>
+      
+      <item>
+         <title>Aprilzero y la vida cotidiana cuantificada</title>
+<author>alvy@microsiervos.com (Alvy)</author>
+         <description><![CDATA[<p align="center"><img src="http://www.microsiervos.com//images/aprilzero.jpg" height="387" width="450" border="0" vspace="5" alt="Aprilzero" /></p>
+
+<p><a href="http://www.aprilzero.com/"><strong>Aprilzero</strong></a> es un proyecto en el que Anand Sharma <a href="http://www.microsiervos.com/archivo/tecnologia/yo-cuantificado.html">cuantifica</a> todos los datos que puede <strong>envolviéndolos en tiempo real en una presentación visual limpia y elegante</strong>.</p>
+
+<p>Durante más de 100 días las apps de su teléfono y otros dispositivos han registrado 426 veces los latidos de su corazón, que de promedio late a 69 ppm. Ha comido 15 burritos (su manjar favorito), ha salido a correr 26 veces y ha recorrido 124.730 kilómetros en coche y avión. También <strong>ha estado en 307 sitios distintos</strong>, 11 países y 61 ciudades – que registra con fotografías y meticulosos datos sobre los lugares en cuestión; cafeterías, monumentos, aeropuertos…</p>
+
+<p>Aprilzero  también plasma sus ideas <a href="http://www.aprilzero.com/journal/">en un blog</a>; con instrumentos médicos guarda cada día valores como su peso, grasa corporal y niveles de diferentes sustancias en la sangre. Si quieres ver sus niveles de vitamina D, sodio o glucosa tan solo tienes que darte una vuelta <a href="http://www.aprilzero.com/sport/">por su web</a>.</p>
+
+<p align="center"><img src="http://www.microsiervos.com//images/girlcuantificada.jpg" height="240" width="325" border="0" vspace="5" alt="Girlcuantificada" /></p>
+]]>
+<![CDATA[<p><a href="http://www.microsiervos.com/archivo/gadgets/aprilzero-vida-cotidiana-cuantificada.html"># Enlace Permanente</a></p>]]>
+
+</description>
+         <link>http://www.microsiervos.com/archivo/gadgets/aprilzero-vida-cotidiana-cuantificada.html</link>
+         <guid>http://www.microsiervos.com/archivo/gadgets/aprilzero-vida-cotidiana-cuantificada.html</guid>
+         <category>Gadgets</category>
+         <pubDate>Sat, 19 Jul 2014 10:00:00 +0100</pubDate>
+         <!-- ItemID 75247 -->
+      </item>
+      
+      <item>
+         <title>Warholismo distópico</title>
+<author>alvy@microsiervos.com (Alvy)</author>
+         <description><![CDATA[<p class="frase" style="font-size:155%;">En el futuro todo el mundo tendrá 15 minutos de privacidad.</p><p align="right">– <a href="https://twitter.com/jesseno/status/487352539851919360">Jesse Novak</a></p>]]>
+<![CDATA[<p><a href="http://www.microsiervos.com/archivo/frases-citas/warholismo-distopico.html"># Enlace Permanente</a></p>]]>
+
+</description>
+         <link>http://www.microsiervos.com/archivo/frases-citas/warholismo-distopico.html</link>
+         <guid>http://www.microsiervos.com/archivo/frases-citas/warholismo-distopico.html</guid>
+         <category>Frases, Citas</category>
+         <pubDate>Sat, 19 Jul 2014 00:00:01 +0100</pubDate>
+         <!-- ItemID 75243 -->
+      </item>
+      
+      <item>
+         <title>Me voy de vacaciones, ¿cuántas prendas de ropa interior tengo que llevar?</title>
+<author>nacho@internality.com (Nacho)</author>
+         <description><![CDATA[<p align="center"><a href="https://medium.com/@sofauxboho/pack-like-a-nerd-2157aa39738f"><img src="http://www.microsiervos.com/images/chuleta-rompa-interior-vacaciones.jpg" height="249" width="500" border="0" hspace="0" vspace="0" alt="" title="" /></a></p>	
+La tabla de arriba procede y se puede ver más grande en <a href="https://medium.com/@sofauxboho/pack-like-a-nerd-2157aa39738f"><strong>Pack Like a Nerd</strong></a>. <strong>Los números relacionan la cantidad de días que se va a estar de viaje</strong> (en horizontal), el número de lavados que se podrán hacer (en los recuadros) y <strong>el número de calzoncillos o braguitas que es necesario llevar en total</strong> (puestos y en la maleta; en vertical).
+
+<p>Las cifras en color dorado / amarillo identifican cuál es <strong>la cantidad óptima de lavados que hay que poner en función del número de prendas</strong>, o al revés, y según cuánto dure el viaje.</p>
+
+<p>De modo que si uno va a estar fuera 9 días y se lleva 9 gayumbos (unos puestos y 8 en la maleta) no le hará falta poner ningún lavado; pero si tiene posibilidad de poner un lavado a lo largo de esos 9 días entonces le bastará con llevar 5 prendas; y si puede poner tres lavados durante los 9 días de vacaciones entonces le bastará con llevar 3 prendas, una puesta y dos en la maleta.</p>]]>
+<![CDATA[<p><a href="http://www.microsiervos.com/archivo/mundoreal/tabla-optimizar-cantidad-ropa-interior-llevar-vacaciones.html"># Enlace Permanente</a></p>]]>
+
+</description>
+         <link>http://www.microsiervos.com/archivo/mundoreal/tabla-optimizar-cantidad-ropa-interior-llevar-vacaciones.html</link>
+         <guid>http://www.microsiervos.com/archivo/mundoreal/tabla-optimizar-cantidad-ropa-interior-llevar-vacaciones.html</guid>
+         <category>MundoReal™</category>
+         <pubDate>Fri, 18 Jul 2014 11:50:41 +0100</pubDate>
+         <!-- ItemID 75258 -->
+      </item>
+      
+      <item>
+         <title>Icónicos ropajes de Marty McFly</title>
+<author>alvy@microsiervos.com (Alvy)</author>
+         <description><![CDATA[<p align="center"><img src="http://img.microsiervos.com/mcfly-ropaicono.jpg" height="319" width="495" border="0" vspace="5" alt="Mcfly-Ropaicono" /></p>
+
+<p>Preciosas estas creaciones de <a href="http://www.ryanputn.am/">Ryan Putnam</a> que en su <a href="http://shop.ryanputn.am/all?category=Collection"><strong>colección de diseños</strong></a> ha añadido versiones icónicas de la vestimenta de algunos protagonistas de películas míticas - entre ellas Marty McFly en la saga <a href="http://www.microsiervos.com/archivo/peliculas-tv/ocho-lineas-temporales-regreso-futuro.html">Regreso al Futuro</a>, los <em>Cazafantasmas</em>, <em>Rudolph</em> y esperamos que muchas más.</p>
+
+<p>(Vía <a href="http://feedproxy.google.com/~r/designtaxi_news/~3/AdR2Or3deys/" title="Simple, Striking Illustrations Of Costumes Worn By Famous Film Characters">Taxi</a>.)</p>]]>
+<![CDATA[<p><a href="http://www.microsiervos.com/archivo/arte-y-diseno/ropajes-marty-mcfly.html"># Enlace Permanente</a></p>]]>
+
+</description>
+         <link>http://www.microsiervos.com/archivo/arte-y-diseno/ropajes-marty-mcfly.html</link>
+         <guid>http://www.microsiervos.com/archivo/arte-y-diseno/ropajes-marty-mcfly.html</guid>
+         <category>Arte y Diseño</category>
+         <pubDate>Fri, 18 Jul 2014 10:00:00 +0100</pubDate>
+         <!-- ItemID 75191 -->
+      </item>
+      
+      <item>
+         <title>Hackers por las malas</title>
+<author>alvy@microsiervos.com (Alvy)</author>
+         <description><![CDATA[<p class="frase" style="font-size:150%;">Soy un hacker experto. En sólo dos minutos y con un martillo accedo al interior de tu ordenador.</p><p align="right">– <a href="https://twitter.com/Maestro_Blaster/status/404718613544058880">Viajero del Tiempo</a></p>]]>
+<![CDATA[<p><a href="http://www.microsiervos.com/archivo/frases-citas/hackers-por-las-malas.html"># Enlace Permanente</a></p>]]>
+
+</description>
+         <link>http://www.microsiervos.com/archivo/frases-citas/hackers-por-las-malas.html</link>
+         <guid>http://www.microsiervos.com/archivo/frases-citas/hackers-por-las-malas.html</guid>
+         <category>Frases, Citas</category>
+         <pubDate>Fri, 18 Jul 2014 00:00:01 +0100</pubDate>
+         <!-- ItemID 75242 -->
+      </item>
+      
+      <item>
+         <title>Phantom Flex 4K  @ 1.000 fps</title>
+<author>alvy@microsiervos.com (Alvy)</author>
+         <description><![CDATA[<p align="center"><iframe src="//player.vimeo.com/video/63490371?title=0&amp;portrait=0&amp;color=88898a" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+
+<p><em>{Para disfrutar a toda la resolución posible, obviamente.}</em></p>
+
+<p>No había visto todavía este vídeo de Vision Research y Abel CineTech en el que mostraban a modo de ejemplo las primeras imágenes grabadas con la <a href="http://www.visionresearch.com/Products/High-Speed-Cameras/Phantom-Flex4K/"><strong>Phantom Flex4K</strong></a>, de 4K de resolución (4096 x 2304) hasta 1.000 fotogramas por segundo (a 4096 x 2160). <strong>W-o-w.</strong></p>
+
+<p>La secuencia la grabaron Brendan Bellomo y Greg Wilson.</p>
+
+<p>Eso sí: tal y como cuentan en <a href="http://www.machacas.org/4k-a-1000-frames-por-segundo">Entre machacas y becarios</a> que es donde lo vi, la cámara en cuestión cuesta unos 90.000 euros. <em>¡Glups!</em></p>]]>
+<![CDATA[<p><a href="http://www.microsiervos.com/archivo/fotografia/phantom-flex-4k-1000-fps.html"># Enlace Permanente</a></p>]]>
+
+</description>
+         <link>http://www.microsiervos.com/archivo/fotografia/phantom-flex-4k-1000-fps.html</link>
+         <guid>http://www.microsiervos.com/archivo/fotografia/phantom-flex-4k-1000-fps.html</guid>
+         <category>Fotografía</category>
+         <pubDate>Thu, 17 Jul 2014 22:58:35 +0100</pubDate>
+         <!-- ItemID 75257 -->
+      </item>
+      
+      <item>
+         <title>Los coches autónomos pueden servir como «armas letales», según el FBI</title>
+<author>nacho@internality.com (Nacho)</author>
+         <description><![CDATA[<p align="center"><img src="http://www.microsiervos.com/images/62c91d08-35e8-4dbe-bd22-ed6000268dc9-460x276.jpg" height="276" width="460" border="0" hspace="0" vspace="0" alt="" title="" /></p>
+
+<p>A pesar de sus formas redondeadas y de su cara de tuso tonto el coche autónomo de Google no ha conseguido ganarse <a href="http://www.microsiervos.com/archivo/frases-citas/sentido-humor-mib.html">el corazón de los agentes del FBI</a>, que en un <em>temor preventivo</em> han alertado ya de que <a href="http://rt.com/usa/173348-fbi-cars-lethal-weapons/">los coches sin conductor pueden ser utilizados como armas letales</a>; sobre los cuchillos de cocina todavía no se han pronunciado.</p>
+
+<p>Para ser justos el FBI admite los beneficios de los coches autónomos, aunque también anota esa posibilidad de que puedan ser usados <em>para el mal</em>, en actos terroristas o en persecuciones —<em>persecuciones</em> a la vertiginosa velocidad de 40 km/h, que es la velocidad máxima actual de los prototipos de Google.</p>
+
+<p align="center"><img src="http://www.microsiervos.com/images/interesting-man-coche-autonomo.jpg" height="200" width="200" border="0" hspace="0" vspace="0" alt="" title="" /></p>	]]>
+<![CDATA[<p><a href="http://www.microsiervos.com/archivo/humor/coches-autonomos-servir-como-armas-letales-fbi.html"># Enlace Permanente</a></p>]]>
+
+</description>
+         <link>http://www.microsiervos.com/archivo/humor/coches-autonomos-servir-como-armas-letales-fbi.html</link>
+         <guid>http://www.microsiervos.com/archivo/humor/coches-autonomos-servir-como-armas-letales-fbi.html</guid>
+         <category>Humor</category>
+         <pubDate>Thu, 17 Jul 2014 14:27:46 +0100</pubDate>
+         <!-- ItemID 75255 -->
+      </item>
+      
+      <item>
+         <title>Futurama ultrarrealista</title>
+<author>alvy@microsiervos.com (Alvy)</author>
+         <description><![CDATA[<p align="center"><iframe src="//player.vimeo.com/video/100785455?portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+
+<p>Vale: <strong>sin la melodía del <a href="http://www.microsiervos.com/archivo/musica/psyche-rock-futurama.html">Psyché Rock</a> no es lo mismo</strong>, pero sin duda esta versión ultrarrealista de <a href="https://www.behance.net/gallery/18362139/FUTURAMA-3D-part-1">Futurama en 3D</a> es espectacular no, lo siguiente.</p>
+
+<p align="center"><img src="http://www.microsiervos.com//images/planetexpress-nave.jpg" height="283" width="500" border="0" vspace="5" alt="Planetexpress-Nave" /></p>
+
+<p>También hay diversas imágenes de la nave de Planet Express surcando el espacio. Un trabajo que combina elegantemente ilustración, modelado en 3-D y animación. Obra de <a href="https://vimeo.com/seccovan">Seccovan</a>.</p>
+
+<div class="mas">
+<ul>
+<li><a href="http://www.microsiervos.com/archivo/peliculas-tv/futurama.html">Futurama</a>, una de nuestras series favoritas de todos los tiempos</li>
+</ul>
+</div>]]>
+<![CDATA[<p><a href="http://www.microsiervos.com/archivo/arte-y-diseno/futurama-ultrarrealista.html"># Enlace Permanente</a></p>]]>
+
+</description>
+         <link>http://www.microsiervos.com/archivo/arte-y-diseno/futurama-ultrarrealista.html</link>
+         <guid>http://www.microsiervos.com/archivo/arte-y-diseno/futurama-ultrarrealista.html</guid>
+         <category>Arte y Diseño</category>
+         <pubDate>Thu, 17 Jul 2014 13:34:05 +0100</pubDate>
+         <!-- ItemID 75254 -->
+      </item>
+      
+   </channel>
+</rss>
